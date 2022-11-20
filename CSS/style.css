@@ -1,0 +1,44 @@
+#titulo {
+    color:tomato
+}
+
+p.especial{
+    color:mediumseagreen
+}
+
+p.texto {
+    color:slateblue
+}
+
+div p {
+    color:aquamarine
+}
+div h2, div h3 {
+    color:brown
+}
+
+* {
+    font-size: 24px;
+}
+
+.color{
+  /* border: 5px red inset; */
+  border-style: solid;
+  border-color:blue;
+  border-radius: 5px;
+  border: width 1pc;
+}
+/*hablale hablaleeee*/
+#fondo{
+    background-color: rgba(255,0,0);
+   /*  opacity: 0.3; */
+    height: 200px;
+    background-image: url('nobu.png');
+    background-size: cover;
+}
+
+.margen {
+    background-color: chocolate;
+    margin: 15px 20px 25px 30px;
+}
+
